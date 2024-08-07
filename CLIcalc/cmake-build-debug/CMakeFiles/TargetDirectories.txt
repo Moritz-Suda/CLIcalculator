@@ -1,0 +1,3 @@
+/home/wyvern-specter/CLionProjects/CLIcalc/cmake-build-debug/CMakeFiles/CLIcalc.dir
+/home/wyvern-specter/CLionProjects/CLIcalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wyvern-specter/CLionProjects/CLIcalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
