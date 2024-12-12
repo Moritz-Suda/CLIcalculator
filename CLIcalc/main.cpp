@@ -61,126 +61,12 @@ void calc() {
         std::cin >> input;
         if(input == 1) {
             std::cout << x+y << std::endl;
-           /** x = 0;
-            y = 0;
-            input = 0;
-            std::cout << "do you want to exit?" << std::endl;
-            std::cout << "1 yes " << std::endl;
-            std::cout << "2 no" << std::endl;
-            std::cout << "Input: ";
-            std::cin >> close;
-
-
-            if(close == 1) {
-                std::cout << "come again" << std::endl;
-                exit(0);
-
-            } if(close == 2) {
-                std::cout << "x: ";
-                std::cin >> x;
-                std::cout << "y: ";
-                std::cin >> y;
-                std::cout << "Input: ";
-                std::cin >> input;
-            }
-            if (close != 1 && close != 2) {
-                std::cout << "wrong input try again" << std::endl;
-                std::cout << "Input: ";
-                std::cin >> input;
-            }else {
-                exit(0);
-            } **/
-        }
-        if(input == 2) {
-            std::cout << x-y << std::endl;
-            /** x = 0;
-            y = 0;
-            input = 0;
-            std::cout << "do you want to exit?" << std::endl;
-            std::cout << "1 yes " << std::endl;
-            std::cout << "2 no" << std::endl;
-            std::cout << "Input: ";
-            std::cin >> close;
-            if(close == 1) {
-                std::cout << "come again" << std::endl;
-                exit(0);
-            } if(close == 2) {
-                close = 0;
-                x = 0;
-                y = 0;
-                input = 0;
-                std::cout << "x: ";
-                std::cin >> x;
-                std::cout << "y: ";
-                std::cin >> y;
-                std::cout << "Input: ";
-                std::cin >> input;
-            }if (close != 1 && close != 2) {
-                close = 0;
-                std::cout << "wrong input try again" << std::endl;
-                std::cout << "Input: ";
-                std::cin >> input;
-            }**/
         }
         if(input == 3) {
             std::cout << x*y << std::endl;
-           /** x = 0;
-            y = 0;
-            input = 0;
-            std::cout << "do you want to exit?" << std::endl;
-            std::cout << "1 yes " << std::endl;
-            std::cout << "2 no" << std::endl;
-            std::cout << "Input: ";
-            std::cin >> close;
-            if(close == 1) {
-                std::cout << "come again" << std::endl;
-                exit(0);
-            } if(close == 2) {
-                x = 0;
-                y = 0;
-                input = 0;
-                close = 0;
-                std::cout << "x: ";
-                std::cin >> x;
-                std::cout << "y: ";
-                std::cin >> y;
-                std::cout << "Input: ";
-                std::cin >> input;
-            }if (close != 1 && close != 2) {
-                std::cout << "wrong input try again" << std::endl;
-                std::cout << "Input: ";
-                std::cin >> input;
-            }**/
         }
         if(input == 4) {
             std::cout << x/y << std::endl;
-            /**x = 0;
-            y = 0;
-            input = 0;
-            std::cout << "do you want to exit?" << std::endl;
-            std::cout << "1 yes " << std::endl;
-            std::cout << "2 no" << std::endl;
-            std::cout << "Input: ";
-            std::cin >> close;
-            if(close == 1) {
-                std::cout << "come again" << std::endl;
-                exit(0);
-            } if(close == 2) {
-                x = 0;
-                y = 0;
-                input = 0;
-                close = 0;
-                std::cout << "x: ";
-                std::cin >> x;
-                std::cout << "y: ";
-                std::cin >> y;
-                std::cout << "Input: ";
-                std::cin >> input;
-            }if (close != 1 && close != 2) {
-                std::cout << "wrong input try again" << std::endl;
-                std::cout << "Input: ";
-                std::cin >> input;
-            }**/
         }
     }
 }
